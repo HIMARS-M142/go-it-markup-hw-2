@@ -53,7 +53,7 @@ body {
 
 /* Page nav */
 .header-link {
-  color: var(--title-text-color);
+  color: var(--header-link-color);
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
