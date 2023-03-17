@@ -53,11 +53,12 @@ body {
 
 /* Page nav */
 .header-link {
-  color: var(--header-link-color);
+  color: var(--title-text-color);
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  font-style: normal;
 }
 .header-link:hover,
 .header-link:focus {
@@ -144,15 +145,18 @@ body {
 }
 
 /* fourth section */
+.fourth-section {
+  background-color: #f4f4fd;
+}
 .fourth-section-item {
-  background-color: var(--background-color);
+  background-color: #ffffff;
 }
 
 .title-team {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
-  letter-spacing: 0, 02em;
+  letter-spacing: 0.02em;
   text-align: center;
   text-transform: capitalize;
 }
@@ -169,9 +173,6 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: center;
-}
-.fourth-section {
-  background-color: var(--second-background-color);
 }
 
 /* Footer */
@@ -202,6 +203,7 @@ body {
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
+  letter-spacing: 0.03em;
   display: flex;
   align-items: center;
   text-transform: uppercase;
