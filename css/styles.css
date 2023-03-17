@@ -74,6 +74,7 @@ body {
   color: #434455;
   font-size: 16px;
   line-height: 1.5;
+  letter-spacing: 0.02em;
   font-style: normal;
 }
 
@@ -86,24 +87,29 @@ body {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
+  letter-spacing: 0.02em;
   text-align: center;
 }
 
 .button-hero {
-  color: #ffffff;
   position: absolute;
   width: 169px;
   height: 56px;
   left: 596px;
   top: 404px;
-  background: #4d5ae5;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
   font-family: inherit;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
+  letter-spacing: 0.04em;
   cursor: pointer;
+}
+.button-hero:hover,
+.button-hero:focus {
+  background-color: #404bbf;
+  color: white;
 }
 
 /* second section */
@@ -112,11 +118,13 @@ body {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 
 .second-section .text {
   font-size: 16px;
   line-height: 1.5;
+  letter-spacing: 0, 02em;
 }
 
 /* third section */
@@ -124,16 +132,22 @@ body {
   color: var(--title-text-color);
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.1;
+  line-height: 1.11;
   text-align: center;
   text-transform: capitalize;
+  letter-spacing: 0.02em;
 }
 
 /* fourth section */
+.fourth-section-item {
+  background-color: var(--background-color);
+}
+
 .title-team {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.1;
+  line-height: 1.11;
+  letter-spacing: 0, 02em;
   text-align: center;
   text-transform: capitalize;
 }
@@ -142,11 +156,13 @@ body {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
+  letter-spacing: 0.02em;
   text-align: center;
 }
 .fourth-section .text {
   font-size: 16px;
   line-height: 1.5;
+  letter-spacing: 0.02em;
   text-align: center;
 }
 .fourth-section {
@@ -169,6 +185,7 @@ body {
   font-weight: 800;
   font-size: 18px;
   line-height: 1.2;
+  letter-spacing: 0.03em;
   display: flex;
   align-items: center;
   text-transform: uppercase;
