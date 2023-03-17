@@ -31,7 +31,7 @@ body {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
-  line-height: 1 17;
+  line-height: 1.17;
   letter-spacing: 0 03em;
   display: flex;
   align-items: center;
@@ -42,7 +42,7 @@ body {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
-  line-height: 1 17;
+  line-height: 1.17;
   letter-spacing: 0 03em;
   display: flex;
   align-items: center;
@@ -54,7 +54,7 @@ body {
   color: var(--title-text-color);
   font-weight: 500;
   font-size: 16px;
-  line-height: 1 5;
+  line-height: 1.5;
   letter-spacing: 0 02em;
 }
 .header-link:hover,
@@ -73,7 +73,7 @@ body {
 .contacts-link {
   color: #434455;
   font-size: 16px;
-  line-height: 1 5;
+  line-height: 1.5;
   font-style: normal;
 }
 
@@ -85,7 +85,7 @@ body {
   color: #ffffff;
   font-weight: 700;
   font-size: 56px;
-  line-height: 1 07;
+  line-height: 1.07;
   text-align: center;
 }
 
@@ -102,7 +102,7 @@ body {
   font-family: inherit;
   font-weight: 500;
   font-size: 16px;
-  line-height: 1, 5;
+  line-height: 1.5;
   cursor: pointer;
 }
 
@@ -111,12 +111,12 @@ body {
   color: var(--title-text-color);
   font-weight: 500;
   font-size: 20px;
-  line-height: 1, 2;
+  line-height: 1.2;
 }
 
 .second-section .text {
   font-size: 16px;
-  line-height: 1, 5;
+  line-height: 1.5;
 }
 
 /* third section */
@@ -124,7 +124,7 @@ body {
   color: var(--title-text-color);
   font-weight: 700;
   font-size: 36px;
-  line-height: 1, 1;
+  line-height: 1.1;
   text-align: center;
   text-transform: capitalize;
 }
@@ -133,7 +133,7 @@ body {
 .title-team {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1, 1;
+  line-height: 1.1;
   text-align: center;
   text-transform: capitalize;
 }
@@ -141,12 +141,12 @@ body {
   color: var(--title-text-color);
   font-weight: 500;
   font-size: 20px;
-  line-height: 1, 2;
+  line-height: 1.2;
   text-align: center;
 }
 .fourth-section .text {
   font-size: 16px;
-  line-height: 1, 5;
+  line-height: 1.5;
   text-align: center;
 }
 .fourth-section {
@@ -160,7 +160,7 @@ body {
 .text-footer {
   color: #f4f4fd;
   font-size: 16px;
-  line-height: 1, 5;
+  line-height: 1.5;
 }
 
 .footer .logo {
@@ -194,7 +194,7 @@ body {
   font-family: inherit;
   font-weight: 500;
   font-size: 16px;
-  line-height: 1, 5;
+  line-height: 1.5;
   display: flex;
   align-items: center;
   text-align: center;
@@ -211,9 +211,9 @@ body {
   color: var(--title-text-color);
   font-weight: 500;
   font-size: 20px;
-  line-height: 1, 2;
+  line-height: 1.2;
 }
 .work-portfolio .text {
   font-size: 16px;
-  line-height: 1, 5;
+  line-height: 1.5;
 }
