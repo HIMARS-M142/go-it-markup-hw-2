@@ -13,7 +13,7 @@
 }
 
 body {
-  font-family: roboto, sans-serif;
+  font-family: "Roboto", sans-serif;
   color: var(--paragraf-text-color);
   background-color: #ffffff;
 }
