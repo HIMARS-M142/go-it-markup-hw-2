@@ -52,9 +52,6 @@ body {
 }
 
 /* Page nav */
-.header-link-item {
-  color: var(--title-text-color);
-}
 .header-link {
   color: var(--title-text-color);
   font-weight: 500;
