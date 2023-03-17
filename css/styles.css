@@ -17,21 +17,22 @@ body {
   color: var(--paragraf-text-color);
   background-color: #ffffff;
 }
-.nonlist {
+.list {
   list-style: none;
 }
-.nonlink {
+.link {
   text-decoration: none;
 }
 
 /* ---------INDEX.HTML--------- */
 /* header */
 .header .logo-color {
-  color: var(--logo-color);
+  color: #4d5ae5;
   font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
-  line-height: 1, 3;
+  line-height: 1, 17;
+  letter-spacing: 0, 03em;
   display: flex;
   align-items: center;
   text-transform: uppercase;
@@ -48,7 +49,7 @@ body {
 }
 
 /* Page nav */
-.link {
+.header-link {
   color: var(--title-text-color);
   font-weight: 500;
   font-size: 16px;
