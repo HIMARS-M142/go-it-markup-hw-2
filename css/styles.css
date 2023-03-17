@@ -40,7 +40,7 @@ body {
   text-transform: uppercase;
 }
 .header .logo {
-  color: var(--title-text-color)
+  color: var(--title-text-color);
   font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
@@ -53,12 +53,12 @@ body {
 
 /* Page nav */
 .header-link {
-  color: var(--header-link-color);
+  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  font-style: normal;
+  color: var(--title-text-color);
 }
 .header-link:hover,
 .header-link:focus {
