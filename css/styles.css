@@ -31,8 +31,8 @@ body {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
-  line-height: 1, 17;
-  letter-spacing: 0, 03em;
+  line-height: 1 17;
+  letter-spacing: 0 03em;
   display: flex;
   align-items: center;
   text-transform: uppercase;
@@ -42,8 +42,8 @@ body {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
-  line-height: 1, 17;
-  letter-spacing: 0, 03em;
+  line-height: 1 17;
+  letter-spacing: 0 03em;
   display: flex;
   align-items: center;
   text-transform: uppercase;
@@ -54,8 +54,8 @@ body {
   color: var(--title-text-color);
   font-weight: 500;
   font-size: 16px;
-  line-height: 1, 5;
-  letter-spacing: 0, 02em;
+  line-height: 1 5;
+  letter-spacing: 0 02em;
 }
 .header-link:hover,
 .header-link:focus {
@@ -73,7 +73,7 @@ body {
 .contacts-link {
   color: #434455;
   font-size: 16px;
-  line-height: 1, 5;
+  line-height: 1 5;
   font-style: normal;
 }
 
@@ -85,7 +85,7 @@ body {
   color: #ffffff;
   font-weight: 700;
   font-size: 56px;
-  line-height: 1, 07;
+  line-height: 1 07;
   text-align: center;
 }
 
