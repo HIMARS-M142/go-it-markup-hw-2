@@ -109,7 +109,6 @@ body {
 .button-hero:hover,
 .button-hero:focus {
   background-color: #404bbf;
-  color: white;
 }
 
 /* second section */
@@ -124,7 +123,7 @@ body {
 .second-section .text {
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0, 02em;
+  letter-spacing: 0.02em;
 }
 
 /* third section */
