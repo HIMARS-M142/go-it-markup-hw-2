@@ -88,7 +88,6 @@ body {
 }
 .hero-title {
   color: #ffffff;
-  font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
@@ -98,7 +97,6 @@ body {
 .button-hero {
   background-color: #4d5ae5;
   color: #ffffff;
-  position: absolute;
   width: 169px;
   height: 56px;
   left: 596px;
@@ -135,7 +133,6 @@ body {
 /* third section */
 .third-section .title {
   color: var(--title-text-color);
-  font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -153,7 +150,6 @@ body {
 
 .title-team {
   color: var(--title-text-color);
-  font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
