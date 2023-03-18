@@ -237,8 +237,11 @@ body {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 .work-portfolio .text {
+  color: var(--paragraf-text-color);
   font-size: 16px;
   line-height: 1.5;
+  letter-spacing: 0.02em;
 }
