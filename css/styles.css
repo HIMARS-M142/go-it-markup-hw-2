@@ -17,6 +17,7 @@ body {
   font-family: "Roboto", sans-serif;
   color: var(--paragraf-text-color);
   background-color: #ffffff;
+  margin: 0px;
 }
 .list {
   list-style: none;
